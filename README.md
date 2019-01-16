@@ -1,2 +1,2 @@
 # SpringDemo
-My Spring application for demo purpose
+A simple spring application based on Google JIB.
